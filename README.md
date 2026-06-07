@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-sweater-still-warms/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Your Sweater Still Warms](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-sweater-still-warms/) |
+| **Get License** | [Music Rights & Licensing for Your Sweater Still Warms](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-sweater-still-warms/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I still trace the shadow where you laid your head
+> Spilled a little coffee on the unmade bed
+> The morning comes too early when we're miles apart
+> But your sweater still warms the winter in my heart
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
