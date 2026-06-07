@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-sweater-still-warms/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Your Sweater Still Warms](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-sweater-still-warms/) |
+| **Get License** | [Obtain a Music License for Your Sweater Still Warms](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-sweater-still-warms/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c74d43337dd2a421ee0f52a7a884931b52d1802e511ba570ad22c424a21bc439` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

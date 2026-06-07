@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Sweater Still Warms
+
+This log tracks the cryptographic history and versioning for the song **Your Sweater Still Warms** (your-sweater-still-warms).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-07T12:17:13.756516 | `v1` | `c74d43337dd2a421ee0f52a7a884931b52d1802e511ba570ad22c424a21bc439` | `ba4f924067ad09464d562015894bc4d0f23837a8f8176901eec0ffca291a37c8` | `2026-06-07_your-sweater-still-warms-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
